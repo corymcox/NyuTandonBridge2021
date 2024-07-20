@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/cmcox007/CLionProjects/NyuTandonBridge2021/hw3/cc7261_hw3_q6.cpp
+iostream
+-
+string
+-
+
